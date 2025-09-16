@@ -1,13 +1,14 @@
 {
-   "url": "https://youtube-com-embed.github.io",
+   "url": "https://youtube-com-embed.github.io/watch",
    "title": "Game Pitch",
 
    "author_name": "David Youtube",
-   "author_url": "https://youtube-com-embed.github.io/",
+   "author_url": "https://youtube-com-embed.github.io/watch",
 
    "provider_name": "YouTube",
-   "provider_url": "https://youtube-com-embed.github.io/"
+   "provider_url": "https://youtube-com-embed.github.io/watch"
 }
+
 
 
 
